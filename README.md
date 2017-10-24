@@ -23,7 +23,10 @@ Postgres
 
 
 ## Final Product
-<img src="https://i.imgur.com/g6QAqdR.png"></img>
+Submission Form:
 <img src="https://i.imgur.com/2bI0n9w.png"></img>
+Review Post:
+<img src="https://i.imgur.com/g6QAqdR.png"></img>
+
 
 
