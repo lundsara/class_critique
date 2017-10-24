@@ -1,0 +1,33 @@
+<% include ../partials/boilerplate %>
+<% include ../partials/header.ejs %>
+
+<div id='smallcirclethree'><p id='lowdown'>Here's the lowdown!</p></div>
+<div class='review'>
+<div id=container>
+<div id='oval'>
+  <p id='interest'>  Update or <br>remove your class<br>review below! </p>
+  </div>
+  </div>
+  <p> Class: <%= data.classname %></p>
+  <br>
+  <p> Instructor: <%= data.instructor %></p>
+  <br>
+  <p> Level: <%= data.level %></p>
+  <br>
+  <p> Review: "<%= data.review %>"</p>
+
+  <br>
+
+  <div id='buttons'>
+  <a href="/reviews/<%= data.id %>/edit"> Edit Review </a>
+  <form action="/reviews/<%= data.id %>?_method=Delete" method="Post">
+    <input id='delete' type="Submit" value="Delete"/>
+  </form>
+  <a href='/reviews/'>See all Reviews</a>
+  </div>
+</div>
+
+
+
+
+<% include ../partials/footer %>
