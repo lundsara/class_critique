@@ -34,14 +34,7 @@ review will to index page that contains all reviews currently held within databa
 I would like to get full CRUD application as MVP then I will tackle the Google Places API and see if I can have a list of classes or instructors to pick from
 
 ## Final Product
-<img src="/assets/home.jpg"></img>
-<img src="/assets/cctwo.jpg"></img>
-## Resources
+<img src="https://i.imgur.com/g6QAqdR.png"></img>
+<img src="https://i.imgur.com/2bI0n9w.png"></img>
 
-Google Places API:
-https://developers.google.com/places/
-<div>  <%= name %> </div>
-
-<div> Address: <%= address %> </div>
-<div> Rating:  <%= rating %> </div>
 
