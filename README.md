@@ -2,6 +2,8 @@
 
 ## Class Critique 
 
+This project can be seen [here!](https://class-critique.herokuapp.com/)
+
 <img src="https://i.imgur.com/tC1NxAX.png"></img>
 This application offers you the ability to log your opinions on fitness class you have taken as well as the class name, level and instructor! 
 This application can be used as an individual resource or can be shared to inform others on classes they may be interested in taking!
